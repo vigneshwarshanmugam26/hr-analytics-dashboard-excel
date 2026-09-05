@@ -89,8 +89,5 @@ The dashboard helps identify:
 
 **Excel • Data Cleaning • Pivot Tables • Pivot Charts • Slicers • HR Analytics • Workforce Analytics • Employee Performance Analysis • Compensation Analysis • Dashboard Design • Data Visualization**
 
-## 👨‍💻 Author
-
-**Vigneshwar Shanmugam**
 
 Aspiring Data Analyst | Power BI | SQL | Excel
